@@ -2,8 +2,8 @@ class FoodsController < ApplicationController
   before_action :set_food, only:[:show, :update, :edit, :destroy]
 
   def index
-    # @foods = Food.all
-    @foods = policy_scope(food).order(created_at: :desc)
+    @foods = Food.all
+    # @foods = policy_scope(food).order(created_at: :desc)
   end
 
   def show
