@@ -1,0 +1,97 @@
+
+.ftco-intro .wrap .info {
+    width: calc(100% - 35%);
+    padding: 2% 5% 2% 12%;
+}
+.ftco-intro .wrap .info {
+  background: #000;
+//   padding: 30px;
+}
+.ftco-intro .wrap .social {
+  width: 35%;
+  background: #fac564;
+}
+.pl-md-5 {
+  padding-left: 3rem!important;
+}
+.p-4 {
+  padding: 1.5rem!important;
+}
+.align-items-center {
+  -webkit-box-align: center!important;
+  // -ms-flex-align: center!important;
+  align-items: center!important;
+}
+.text h3 {
+  line-height: 1.4;
+  color: #fff;
+  font-weight: 400;
+  font-family: "Josefin Sans",Arial,sans-serif;
+}
+.ftco-intro .wrap .text {
+  width: calc(100% - 40px);
+}
+.ftco-intro .wrap h3 {
+  font-size: 16px;
+}
+.ftco-intro .wrap .info p {
+  margin-bottom: 0;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-size: 15px;
+  line-height: 1.8;
+  font-weight: 300;
+  color: gray;
+  font-family: "Poppins",Arial,sans-serif;
+}
+.fa-solid {
+  font-size: 20px;
+  color: #fac564;
+}
+.ftco-intro .wrap .icon {
+  width: 40px;
+}
+.welcome_box {
+  display: flex;
+  align-content: center;
+  justify-content: start;
+  align-items: center;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+.half-img {
+  background-size: cover;
+  background-image: url('https://lh5.googleusercontent.com/p/AF1QipPcQ2bLZeaxaT-ynxLxyAbalBdTtgyb3Mkb6nyT=w1080-k-no')!important;
+  background-position-y: -114px;
+
+}
+.one-half {
+  padding: 5%;
+  width: 50%;
+}
+.one-half2 {
+  background: url(https://preview.colorlib.com/theme/pizza/images/xbg_4.jpg.pagespeed.ic.nnImMvMw9q.webp) no-repeat fixed;
+}
+.heading-section h2 {
+  line-height: 1.4;
+  color: #fff;
+  font-family: "Josefin Sans",Arial,sans-serif!important;
+  font-size: 30px;
+  font-weight: 400;
+  position: relative;
+  text-transform: uppercase;
+}
+.fuelle-font {
+  font-family: 'Courgette', cursive;
+  color: #fac564;
+  text-transform: none;
+}
+.big {
+  font-size: 30px;
+}
+.one-half2 p {
+  color : gray;
+}
