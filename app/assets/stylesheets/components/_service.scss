@@ -1,0 +1,38 @@
+
+.ftco-section {
+    padding: 7em 0;
+    position: relative;
+}
+.ftco-services {
+    background: url(https://preview.colorlib.com/theme/pizza/images/xfood.png.pagespeed.ic.Ri7Y-nZe7n.webp) repeat;
+    color: #5c3d03;
+}
+.service-container h2 {
+  color: black!important;
+}
+.service-container p {
+  color: #5c3d03;
+}
+.icons {
+  color: black;
+  font-size: 3rem;
+  padding: 2rem;
+
+}
+.border-icon {
+  border: black solid 1px;
+
+  // height: 5rem;
+  // width: 5rem;
+}
+.icons:hover {
+  color: whitesmoke;
+  transform: rotate(-45deg);
+  transition: all 0.5s ease-in-out;
+}
+.border-icon:hover {
+  background-color: #ffc107;
+  transform: rotate(765deg);
+  transition: all 0.5s ease-in-out;
+  border: none;
+}
