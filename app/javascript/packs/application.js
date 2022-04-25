@@ -14,3 +14,4 @@ ActiveStorage.start()
 
 import "controllers"
 import "bootstrap"
+import 'swiper/swiper-bundle.min.css'
