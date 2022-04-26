@@ -19,3 +19,70 @@
   margin-right: -15px;
   margin-left: -15px;
 }
+.italian {
+width: 50%;
+background-image: url(https://especiaspara.com/wp-content/uploads/2020/03/pizza-3007395_1920.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+
+}
+.text p {
+  color: gray;
+}
+.text span {
+  color: #fac564;
+}
+.text a {
+  border: white solid 1px;
+  color: azure;
+  margin-left: 10px;
+}
+.text a:hover {
+  color: black;
+  background-color: #fac564;
+  border: #fac564 solid 1px;
+}
+.greek {
+  width: 50%;
+  background-image: url(https://preview.colorlib.com/theme/pizza/images/xpizza-2.jpg.pagespeed.ic.nvpLkmfAap.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.caucasian {
+  width: 50%;
+  background-image: url(https://preview.colorlib.com/theme/pizza/images/xpizza-3.jpg.pagespeed.ic.wc2yk_D6LQ.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.american {
+  width: 50%;
+  background-image: url(https://preview.colorlib.com/theme/pizza/images/xpizza-4.jpg.pagespeed.ic.NOwUc6hK8n.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: none!important;
+}
+.tomatoe {
+  width: 50%;
+  background-image: url(https://preview.colorlib.com/theme/pizza/images/xpizza-5.jpg.pagespeed.ic.b0fpNGXjCe.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.margherita {
+  width: 50%;
+  background-image: url(https://preview.colorlib.com/theme/pizza/images/xpizza-6.jpg.pagespeed.ic.u6bA5ZUSM9.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.text {
+  width: 50%;
+  padding: none!important;
+}
+.paddinless {
+  padding: 0px!important;
+}
